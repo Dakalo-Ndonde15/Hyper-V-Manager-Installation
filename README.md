@@ -25,11 +25,14 @@ This project serves as a comprehensive guide to installing and enabling Hyper-V 
 
 <p align="center">
 Open Windows Features: <br/>
-<img src="https://via.placeholder.com/800x400.png" height="80%" width="80%" alt="Enable Windows Features"/>
+<img src="https://imgur.com/mu3m4lp.png" height="80%" width="80%" alt="Enable Windows Features"/>
+<img src="https://imgur.com/3NnrxAG.png" height="80%" width="80%" alt="Enable Windows Features"/>
 <br />
 <br />
+
+<p align="center">
 Enable Hyper-V: <br/>
-<img src="https://via.placeholder.com/800x400.png" height="80%" width="80%" alt="Enable Hyper-V"/>
+<img src="https://imgur.com/4VOrxqu.png" height="80%" width="80%" alt="Enable Hyper-V"/>
 <br />
 <br />
 Restart the Computer: <br/>
