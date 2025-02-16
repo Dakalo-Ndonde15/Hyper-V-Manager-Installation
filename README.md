@@ -46,9 +46,9 @@ This project serves as a comprehensive guide to installing and enabling Hyper-V 
 - Alternatively, open Command Prompt and type `systeminfo` to verify if Hyper-V is installed.
 
 <p align="center">
-  <img src="https://imgur.com/gaFj3PE.png" height="80%" width="80%" alt="Open Hyper-V Manager" />
-  <br/>
   <img src="https://imgur.com/wWeo33K.png" height="80%" width="80%" alt="Open Hyper-V Manager" />
+  <br/>
+  <img src="https://imgur.com/gaFj3PE.png" height="80%" width="80%" alt="Open Hyper-V Manager" />
 </p>
 
 ### Create a Test Virtual Machine:
@@ -76,11 +76,24 @@ This project serves as a comprehensive guide to installing and enabling Hyper-V 
   <br/>
   <img src="https://imgur.com/kA3wJna.png" height="80%" width="80%" alt="Test machine created 9" />
   <br/>
-  <img src="https://imgur.com/SBoIAjZ.png" height="80%" width="80%" alt="Test machine open 10" />
-  <br/>
-  <img src="https://imgur.com/JYwgM28.png" height="80%" width="80%" alt="Test machine open failed 11" />
 </p>
+
+### Opening your virtural Machine
+- To open the test machine created, you can right-click on the test virtual machine and click start.
+
+<p align="center">Right-click the test virtual machine and click Start.</p>
+<p align="center">
+  <img src="https://imgur.com/SBoIAjZ.png" height="80%" width="80%" alt="Test machine open 10" />
+</p>
+
+<p align="center">If you encounter an error, it may look like this:</p>
+<p align="center">
+  <img src="https://imgur.com/JYwgM28.png" height="80%" width="80%" alt="Test machine open failed 11" />
+</p> 
+
+**Note:** This is because we have not yet added or installed an operating system (OS) to the virtual machine. Hence, the virtual machine will not function until an operating system (OS) is added and installed. Ensure you have the OS installation media (e.g., ISO file) ready to complete the setup.
+
+Here is a helpful video on adding OS to the virtual machine: [Full Guide - Setting up a Virtual Machine](https://www.youtube.com/watch?v=g_eaMpxoCWo)
 
 ## Conclusion
 - You have now successfully installed Hyper-V and created a virtual machine.
-- **Note:** The virtual machine will not function until an operating system (OS) is added and installed. Ensure you have the OS installation media (e.g., ISO file) ready to complete the setup.
