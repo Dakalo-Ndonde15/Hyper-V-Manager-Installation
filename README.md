@@ -79,7 +79,6 @@ This project serves as a comprehensive guide to installing and enabling Hyper-V 
 </p>
 
 ### Opening your virtural Machine
-- To open the test machine created, you can right-click on the test virtual machine and click start.
 
 <p align="center">Right-click the test virtual machine and click Start.</p>
 <p align="center">
